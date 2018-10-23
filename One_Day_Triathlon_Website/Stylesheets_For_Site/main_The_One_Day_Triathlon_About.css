@@ -31,3 +31,10 @@ p4 {
     color: crimson;
     font-size: 23;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
