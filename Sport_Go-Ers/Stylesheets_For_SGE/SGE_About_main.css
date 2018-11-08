@@ -8,3 +8,9 @@ h1{
     font-family: 'Acme', sans-serif;
     font-size: 45;
 }
+
+p1{
+    text-align: center;
+    color: burlywood;
+    font-family: 'Francois One', sans-serif;
+}
