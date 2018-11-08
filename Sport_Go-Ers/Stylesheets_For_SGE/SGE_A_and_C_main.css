@@ -3,8 +3,18 @@ body {
     background-size: cover;
 }
 
-h1{
+h1 {
     text-align: center;
     font-family: 'Kumar One Outline', cursive;
     font-size: 25;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
 }
