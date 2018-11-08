@@ -1,0 +1,9 @@
+body {
+    background: url(../Pics_For_Site/daniel-cheung-129839-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+}

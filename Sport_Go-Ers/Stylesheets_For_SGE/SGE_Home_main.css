@@ -1,0 +1,22 @@
+body {
+    background: url(../Pics_For_Site/japheth-mast-329255-unsplash.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: forestgreen;
+    font-family: 'Spicy Rice', cursive;
+}
+
+p1 {
+    text-align: center;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

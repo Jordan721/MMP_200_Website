@@ -1,0 +1,10 @@
+body {
+    background: url(../Pics_For_Site/asoggetti-718108-unsplash.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-size: 45;
+}
