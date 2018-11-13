@@ -11,7 +11,13 @@ h1 {
 
 p1 {
     text-align: center;
-    color: burlywood;
+    color: darkorange;
+    font-family: 'Francois One', sans-serif;
+}
+
+p2 {
+    text-align: center;
+    color: red;
     font-family: 'Francois One', sans-serif;
 }
 
