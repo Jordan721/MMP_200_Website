@@ -11,14 +11,16 @@ h1 {
 
 p1 {
     text-align: center;
-    color: darkorange;
+    color: lightcoral;
     font-family: 'Francois One', sans-serif;
+    font-size: 35;
 }
 
 p2 {
     text-align: center;
     color: red;
     font-family: 'Francois One', sans-serif;
+    font-size: 35;
 }
 
 .center {
