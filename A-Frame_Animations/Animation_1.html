@@ -7,9 +7,22 @@
 </head>
 
 <body>
-    <a-scene>
-        <a-sphere position="0 0 -5" radius="2" color="orange"></a-sphere>
-        <a-sky color="blue"></a-sky>
+    <a-scene id="3dScene">
+        
+        <a-entity position="0 12 -2" rotation="-90 0 0">
+            <a-camera></a-camera>
+        </a-entity>
+
+        <a-sphere position="0 1 -5" radius="2" color="gray" shadow>
+
+            <a-animation attribute="position" dur="2000" to="0 -3 -3" repeat="indefinite"></a-animation>
+        </a-sphere>
+
+        <a-cone color="teal" position="2 1-1" radius-bottom="2" radius-top="0" height="1">
+            <a-animation attribute="rotation" dur="4000" to="180 180 180" repeat="indefinite"></a-animation>
+        </a-cone>
+
+        <a-sky color="skyblue"></a-sky>
     </a-scene>
 </body>
 
