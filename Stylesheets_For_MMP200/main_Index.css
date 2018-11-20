@@ -2,3 +2,7 @@ body {
     background: url(../Pictures_for_website/marc-schafer-1100891-unsplash.jpg)no-repeat center center fixed;
     background-size: cover;
 }
+
+a {
+    font-family: 'Orbitron', sans-serif;
+}
