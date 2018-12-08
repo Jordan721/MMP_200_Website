@@ -1,5 +1,18 @@
 body {
-        background: url(../Pictures_for_website/paul-lucaci-763750-unsplash.jpg) no-repeat center center fixed;
-        background-size: cover;
-        font-family: "Courier New", Courier, monospace;
-    }
+    background: url(../Pictures_for_website/paul-lucaci-763750-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Courier New", Courier, monospace;
+}
+
+a {
+    font-family: 'Bungee', cursive;
+}
+
+h1 {
+    font-family: 'Patua One', cursive;
+}
+
+p {
+    font-size: 15;
+    font-family: 'Righteous', cursive;
+}
