@@ -10,9 +10,13 @@ a {
 
 h1 {
     font-family: 'Patua One', cursive;
+    text-align: center;
+    font-size: 45;
 }
 
 p {
-    font-size: 15;
+    font-size: 25;
     font-family: 'Righteous', cursive;
+    text-align: center;
+    color: white;
 }
