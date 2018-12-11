@@ -11,6 +11,11 @@ p1 {
     color: aliceblue;
 }
 
+p {
+    font-family: monospace;
+    font-size: 15;
+}
+
 .center {
     display: block;
     margin-left: auto;
